@@ -1,5 +1,7 @@
 # Deep Learning for Computer Vision
 
+[![arXiv:2512.11824](https://img.shields.io/badge/arXiv-2502.04397-b31b1b)](https://arxiv.org/abs/2512.11824v1)
+
 > **TL;DR:** Late fusion of RGB features with a pretrained depth autoencoder latent (512-d) achieves **82.4%** grasp classification accuracy across 5 grasp types, outperforming the RGB-only ResNet50 baseline (79.6%) and early RGBD concatenation (62.8%).
 
 <p align="center"><strong>Depth-aware multimodal grasp classification via RGB-D feature fusion and learned depth priors.</strong></p>
